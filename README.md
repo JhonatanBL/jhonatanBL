@@ -15,7 +15,7 @@
 
 ## Sobre mim
 
-- 🎓 Cursando **Matemática Aplicada e Computacional** na Unicamp (conclusão prevista: final de 2027) e quase formado em **Licenciatura em Física** pela mesma universidade.
+- 🎓 Cursando **Matemática Aplicada e Computacional** na Unicamp (conclusão prevista: final de 2027) e semi formado em **Licenciatura em Física** pela mesma universidade.
 - 🔭 Há mais de 3 anos faço iniciação científica com **simulações de Monte Carlo** e análise estatística de dados de raios cósmicos do **Observatório Pierre Auger**.
 - 📊 Gosto de transformar dados em informações úteis e interpretáveis para a tomada de decisão.
 - 👨‍🏫 Professor voluntário de Física em um cursinho popular e criador de materiais didáticos interativos.
@@ -35,28 +35,28 @@
 
 ## Projetos em destaque
 
-### 🌌 Análise de anisotropia de raios cósmicos
+### 🌌 [Análise de anisotropia de raios cósmicos](https://github.com/JhonatanBL/Raios-Cosmicos)
 Dois notebooks para estudar eventos do Observatório Pierre Auger: uma análise espacial com simulações de Monte Carlo (autocorrelação angular e verossimilhança, com eventos isotrópicos simulados) e uma análise de anisotropia dipolar pelo método de Rayleigh modificado, com mapas HEALPix. A análise dipolar processa mais de 168 mil eventos.
 
 `Python` `Pandas` `NumPy` `SciPy` `Astropy` `healpy` `Matplotlib`
 
-### 🏥 Análise de adesão a planos de saúde
+### 🏥 [Análise de adesão a planos de saúde](https://github.com/JhonatanBL/Desafio-de-analise-de-dados--plano-de-saude)
 Análise exploratória dos planos de saúde de colaboradores: comparação de adesão por região e UF, modalidade e status, operadora dominante e índice HHI por região. Inclui um dashboard interativo com filtro por região e um mapa com a distribuição por cidade.
 
 `Python` `Pandas` `Plotly` `Excel` `Análise exploratória`
 
-### 🏫 Desafio de análise de dados: escolas
+### 🏫 [Desafio de análise de dados: escolas](https://github.com/JhonatanBL/Desafio-de-analise-de-dados--escolas)
 Análise exploratória de dados de escolas e estudantes, com preparação dos dados, visualizações, comparações estatísticas e relatório final em PDF com os resultados e as conclusões.
 
 `Python` `Pandas` `Seaborn` `SciPy` `Estatística`
 
-### 📐 Divergence Point
+### 📐 [Divergence Point](https://github.com/JhonatanBL/Divergence-Point)
 Plataforma de aprendizagem com aulas e apresentações interativas de Física, Matemática e Computação, organizadas por matéria e etapa de ensino, com busca, páginas próprias para cada aula e temas claro e escuro.
 🔗 **[divergent-point.vercel.app](https://divergent-point.vercel.app/)**
 
 `Next.js` `React` `TypeScript` `Tailwind CSS`
 
-### 📚 Repositório de aulas e projetos acadêmicos
+### 📚 [Repositório de aulas e projetos acadêmicos](https://github.com/JhonatanBL/aulas)
 Reúne projetos de disciplinas da graduação:
 
 - **Deep Learning:** estudo e implementação de YOLO e mapas de atenção em redes neurais (PyTorch e Keras).
@@ -65,6 +65,16 @@ Reúne projetos de disciplinas da graduação:
 - **Programação Linear:** implementação em Julia ligada ao método simplex.
 
 `PyTorch` `Keras` `C` `Julia` `Jupyter`
+
+## Formação e experiência
+
+| Período | O quê |
+|---|---|
+| 2025 – atual | Bacharelado em Matemática Aplicada e Computacional, Unicamp |
+| 2023 – atual | Iniciação científica: simulações de Monte Carlo aplicadas a raios cósmicos (DRCC, Unicamp) |
+| 2025 – atual | Professor voluntário de Física, Cursinho Popular Nilma Lino Gomes |
+| 2019 – 2025 | Licenciatura em Física, Unicamp |
+| 2019 – 2023 | Bolsista em NIED, Laboratório de Óptica (DFMC) e Laboratório de Fibras Especiais (LAFE), Unicamp |
 
 ## Contato
 
