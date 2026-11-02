@@ -66,16 +66,6 @@ Reúne projetos de disciplinas da graduação:
 
 `PyTorch` `Keras` `C` `Julia` `Jupyter`
 
-## Formação e experiência
-
-| Período | O quê |
-|---|---|
-| 2025 – atual | Bacharelado em Matemática Aplicada e Computacional, Unicamp |
-| 2023 – atual | Iniciação científica: simulações de Monte Carlo aplicadas a raios cósmicos (DRCC, Unicamp) |
-| 2025 – atual | Professor voluntário de Física, Cursinho Popular Nilma Lino Gomes |
-| 2019 – 2025 | Licenciatura em Física, Unicamp |
-| 2019 – 2023 | Bolsista em NIED, Laboratório de Óptica (DFMC) e Laboratório de Fibras Especiais (LAFE), Unicamp |
-
 ## Contato
 
 Estou aberto a oportunidades de estágio em Ciência de Dados. Fale comigo pelo [LinkedIn](https://linkedin.com/in/jhonatan-bryan) ou pelo e-mail [jhonatanbl1999@gmail.com](mailto:jhonatanbl1999@gmail.com).
